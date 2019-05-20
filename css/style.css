@@ -1,0 +1,96 @@
+* {
+    font-family: Open Sans", sans-serif;
+
+}
+
+.mbr-bold {
+    font-weight: 700;
+}
+
+.mbr-black {
+    color: #000000;
+}
+
+.mbr-black:hover {
+    color: #0087ab;
+}
+
+.display-5 {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.menu {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 14px;
+}
+
+.btn {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.18);
+    border: 2px solid #003645;
+}
+
+.btn:hover {
+    background-color: #0087ab;
+    border-color: #0087ab;
+}
+
+.header1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url(../images/background1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 110px;
+}
+
+.heading {
+    width: 60%;
+}
+
+.btn-signup {
+    background-color: #0087ab;
+    border: none;
+    padding: 15px 20px;
+    font-size: 14px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.18);
+    color: white;
+    font-weight: 600;
+    border-radius: 6px;
+}
+
+.btn-signup:hover {
+    background-color: white;
+    color: #003645;
+}
+
+.btn-light {
+    padding: 12px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: transparent;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.18);
+    color: white;
+    border-radius: 6px;
+    border-color: white;
+}
+
+.btn-light:hover {
+    background-color: white;
+    color: gray;
+    border-color: white;
+}
+
+h1 {
+    font-family: Merriweather, serif;
+    font-weight: 700;
+}
+
+.h-text {
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+}
